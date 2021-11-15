@@ -1,0 +1,5 @@
+Flask
+Spacy 
+Pytest
+Flask-SQLAlchemy
+Selenium 
